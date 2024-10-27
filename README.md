@@ -1,15 +1,15 @@
-# Astro Staring Template
+# 🌟 Astro Staring Template
 
-This is a blank canvas template for developing with Astro, equipped with ESLint, Prettier, TypeScript, and TailwindCSS pre-configured to streamline your setup.
+This is my personal blank canvas template for developing with Astro, equipped with ESLint, Prettier, TypeScript, and TailwindCSS pre-configured.
 
-## Features
+## ✨ Features
 
 - **TypeScript** - Static typing and better developer tooling.
 - **ESLint** - Linting configured with ESLint and TypeScript support.
 - **Prettier** - Code formatting for consistent style.
 - **TailwindCSS** - Utility-first CSS framework for easy styling.
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repository:**
 
@@ -19,7 +19,7 @@ This is a blank canvas template for developing with Astro, equipped with ESLint,
 ```
 
 
-## 🧞 Scripts
+## ⌨️ Scripts
 
 ```sh
     "dev": "astro dev",
